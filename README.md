@@ -1,7 +1,7 @@
-## 311 Holiday Noise Analyis 
-This repo contantins the notebook for the Data Clinic blog post of the same name.
+## 311 Holiday Noise Analysis 
+This repo contains the notebook for Data Clinic's blog XXXXX.
 
-To get it running, make sure that you have installed the following depenedencies 
+To get it running, make sure that you have installed the following dependencies: 
 
 ```bash
 pip install numpy pandas pystan fbprophet
