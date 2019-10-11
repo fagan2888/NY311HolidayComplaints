@@ -1,5 +1,5 @@
 ## 311 Holiday Noise Analysis 
-This repo contains the notebook for Data Clinic's blog XXXXX.
+This repo contains the notebook for Data Clinic's blog post [New York City's loudest holiday according to open data](https://medium.com/dataclinic/new-york-citys-loudest-holiday-according-to-open-data-df35e79ac4fa)
 
 To get it running, make sure that you have installed the following dependencies: 
 
